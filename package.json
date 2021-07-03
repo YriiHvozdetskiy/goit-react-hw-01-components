@@ -41,7 +41,10 @@
     ]
   },
   "devDependencies": {
+    "husky": "^7.0.0",
     "lint-staged": "^11.0.0",
+    "mrm": "^3.0.2",
+    "mrm-task-lint-staged": "^6.0.0",
     "prettier": "^2.3.2"
   },
   "lint-staged": {
