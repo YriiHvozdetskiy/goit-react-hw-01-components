@@ -1,0 +1,21 @@
+.transactionHistory {
+  margin-left: auto;
+  margin-right: auto;
+  border-spacing: 0;
+}
+
+.header {
+  background-color: aqua;
+}
+
+.header th {
+  padding: 15px 80px;
+}
+
+.body td {
+  padding: 15px 80px;
+}
+
+.body tr:nth-child(2n) {
+  background-color: gainsboro;
+}
