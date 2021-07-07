@@ -4,22 +4,3 @@
   margin-right: auto;
   margin-bottom: 50px;
 }
-
-.item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 15px;
-}
-
-.avatar {
-  margin-right: 10px;
-  margin-left: 10px;
-}
-
-.icon {
-  color: red;
-}
-
-.icon.online {
-  color: green;
-}
